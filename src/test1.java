@@ -22,5 +22,16 @@ public class test1 {
 //        if(str_1.equalsIgnoreCase(str_2)){
 //            System.out.println("str_1.equalsIgnoreCase(str_2)");
 //        }
+        //1. 양쪽 끝 공백제거 함수 trim()
+//          String str_1 ="      Hello         ";
+//          str_1 = str_1.trim();
+//          System.out.println(str_1);
+
+        //2.문자열 중간 공백제거 함수 replace()
+//        String str_2="   Hel    lo    ";
+//        str_2 =str_2.trim();
+//        str_2=str_2.replace(" ","");
+//        System.out.println(str_2);
+
     }
 }
